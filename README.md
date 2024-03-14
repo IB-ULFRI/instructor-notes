@@ -64,3 +64,5 @@ This Bioinformatics course and its materials are licensed under the CC BY-NC-SA 
 
 ## Keeping Content Current
 Staying current is crucial in the fast-evolving field of bioinformatics. We regularly update our materials, with the last revision made on April 1, 2024. These updates reflect the latest trends and advancements, ensuring that our course remains a relevant and valuable resource.
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
