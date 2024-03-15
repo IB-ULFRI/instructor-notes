@@ -1,6 +1,8 @@
-# Setting up the Bioinformatics course
+# Setting up the Bioinformatics course assignments
 
 The following instructions inform trainers on how to set up the course environment using assignments from GitHub and GitHub classroom.
+
+Note that we also invite students to a communications channel (e.g. Slack) where teaching assistents are available for any questions.
 
 ## Creating a GitHub organization
 
@@ -31,10 +33,17 @@ The following instructions inform trainers on how to set up the course environme
 ![](screenshots/distribute-assignments.png)
 
 
-2. They click on the link that creates a PRIVATE repository that is a copy of the template. Repositories are created in the organization of the assignment.
+2. Trainees click on the link that creates a PRIVATE repository that is a copy of the template. Repositories are created in the organization of the assignment.
+![](screenshots/accept-assignment.png)
+
 
 3. Trainees only have to push their code and solutions to their repository
 
 ## Assignment grading
 
 1. Trainers can fetch all private repositories in the organization using GitHub CLI.
+```
+gh classroom clone student-repos
+```
+
+Check [GitHub CLI instructions](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/using-github-classroom-with-github-cli) for more information.
