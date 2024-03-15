@@ -52,18 +52,9 @@ Our materials are enriched with detailed metadata following standards like BioSc
 | Additional Information        | _Items that provide additional information about (re)use and delivery of the materials (e.g., general tips and guidance)._                                                                             |
 | Links and References          | _Links and references that are relevant to the content but not required for delivery of the materials._                                                                                                |
 | Date of Last Revision         | January 26, 2024                                                                                                                                                                                       |
-
-## Unique Identity and Registration
-
-To prevent "link rot" and ensure long-term availability, each of our training materials has a unique digital object identifier (DOI). This makes them easily citable and traceable. We've registered these materials with renowned educational resource registries, such as ELIXIR’s TeSS and GOBLET, for broader visibility.
-
-## Formats and Accessibility
-
-In selecting the format for our training materials, we prioritized interoperability and ease of use. For instance, our slides are available in both PowerPoint and PDF formats. We also provide Markdown versions of our documents for those who prefer them.
-
 ## Usability for Trainees
 
-Our course is designed with clear learning outcomes in mind. For example, after completing the module on genomic sequencing, students will be able to apply sequencing techniques in a lab setting. The prerequisites are straightforward, ensuring that our target audience, which includes both beginners and intermediate learners, knows what skills and knowledge are needed beforehand.
+We prepared a detailed information on how to use the assignments using GitHub classroom. Check out [SETTING-UP-COURSE.md](SETTING-UP-COURSE.md) for more information.
 
 ## Contribution Guidelines
 
