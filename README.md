@@ -1,22 +1,33 @@
 # Instructor's Notes: Introduction to Bioinformatics
 
-Welcome to Our Bioinformatics Course
-
-Welcome to the repository of our comprehensive Bioinformatics course. This document provides a guide to our training materials, designed with the intention of facilitating easy sharing, discovery, and efficient use both by trainers and trainees alike.
+Welcome to the repository of University of Bioinformatics course desgined at University of Ljubljana. This document provides a guide to our practical training material, designed with the intention of facilitating easy sharing, discovery, and efficient use both by trainers and trainees alike.
 
 ## Course Overview
 
-In this course, we dive deep into the fascinating world of bioinformatics. We cover everything from basic concepts to advanced techniques, preparing our students for real-world challenges in the field.
+In this course we take a deep dive into the fascinating world of bioinformatics. We cover everything from basic concepts to advanced techniques, preparing our students for real-world challenges in the field. While we focus here on the assignments, the full course is available to all registered students on their [Moodle home page](https://ucilnica.fri.uni-lj.si/bioinf). To provide context for the assignments, we here provide a list of lectures and place the assignments after the corresponding lectures. While the assignments relate to a group of lectures, the assignments will be posted around the middle of each lecture group.
 
-The course is comprised of five homework assignments, where each focuses on a specific aspect of bioinformatics.
+The course is comprised of five homework assignments, where each focuses on a specific aspect of bioinformatics. Clicking on the assignment link oopens a github template repository.
 
-|              | Assignment Title           | Github Template                        | Time required* |
-| ------------ | -------------------------- | -------------------------------------- | -------------- |
-| Assignment 1 | A First Look at the Genome | https://github.com/IB-ULFRI/homework-1 | Up to 3 days   |
-| Assignment 2 | Decoding Gene Function     | https://github.com/IB-ULFRI/homework-2 | Up to 3 days   |
-| Assignment 3 | Mapping the Family Tree    | https://github.com/IB-ULFRI/homework-3 | Up to 3 days   |
-| Assignment 4 | Tracking Viral Evolution   | https://github.com/IB-ULFRI/homework-4 | Up to 2 days   |
-| Assignment 5 | The Immune Response        | https://github.com/IB-ULFRI/homework-5 | Up to 2 days   |
+| Type | Title | Covered Topics |
+| ---- | ----- | -------------- |
+| Lecture 1 | Introduction to Molecular Biology | central dogma of molecular biology |
+| Lecture 2 | A First Look at the Genome | genome sequence, nucleotides, k-mers, multinomial model |
+| Lecture 3 | Genes and open reading frames | gene structure, ORF | 
+| Assignment 1 | [A First Look at the Genome](https://github.com/IB-ULFRI/homework-1) | biopython, ORF finding, precision recall |
+| Lecture 4 | Sequence Alignment | |
+| Assignment 2 | [Decoding Gene Function](https://github.com/IB-ULFRI/homework-2) | global and local squence alignment |
+| Lecture 5 | Inference of Phylogenetic Trees | |
+| Assignment 3 | [Mapping the Family Tree](https://github.com/IB-ULFRI/homework-3) | neighbor joining, phylogenetic analysis, recombination |
+| Lecture 6 | Machine Learning for DNA Classification | |
+| Lecture 7 | Estimation of Genetic Distances | |
+| Assignment 3 | [Tracking Viral Evolution](https://github.com/IB-ULFRI/homework-4) | genetic distance, speed of mutation, variant classification |
+| Lecture 8 | Genome Assembly | |
+| Lecture 9 | Gene Expression and Profiling | |
+| Lecture 10 | Gene Set Enrichment Analysis | |
+| Assignment 3 | [The Immune Response](https://github.com/IB-ULFRI/homework-5) | read mapping, gene expression analysis, GO term enrichment analysis |
+| Lecture 11 | Inference of Gene Networks | |
+| Lecture 12 | Invited Lecture | |
+
 
 **The reported time required is obtained from the self-reported time required for ~80% of the students to complete the homework assignment.* 
 
